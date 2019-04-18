@@ -1,4 +1,4 @@
-from marbles import Server
+from marble import Server
 
 def home_page(params):
     response = "<html><body><h1>Whazzzapp!</h1></body></html>"
